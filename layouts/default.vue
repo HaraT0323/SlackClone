@@ -14,8 +14,8 @@
 
 <style>
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -67,18 +67,18 @@ html {
 
 .sidebar {
   width: 300px;
-  background: #4A4141;
+  background: #4a4141;
   height: 100vh;
   padding: 20px;
 }
 
 .sidebar p {
-  color: #DDDDDD;
+  color: #dddddd;
   padding-top: 4px;
 }
 .main-content {
   width: 100%;
-  background: #F1F1F1;
+  background: #f1f1f1;
   height: 100vh;
 }
 </style>
